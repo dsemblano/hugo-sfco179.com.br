@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on SFCO179 teste3</title>
+    <title>Posts on SFCO 179</title>
     <link>https://sfco179.com.br/posts/</link>
-    <description>Recent content in Posts on SFCO179 teste3</description>
+    <description>Recent content in Posts on SFCO 179</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt=br</language>
-    <lastBuildDate>Thu, 15 Apr 2021 15:50:27 -0300</lastBuildDate><atom:link href="https://sfco179.com.br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 02:18:19 -0300</lastBuildDate><atom:link href="https://sfco179.com.br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Post 1</title>
+      <link>https://sfco179.com.br/posts/blog-post-1/</link>
+      <pubDate>Fri, 16 Apr 2021 02:18:19 -0300</pubDate>
+      
+      <guid>https://sfco179.com.br/posts/blog-post-1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Post2</title>
       <link>https://sfco179.com.br/posts/post2/</link>
