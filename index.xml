@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SFCO179 Multispace CWB.PR.BR</title>
+    <title>SFCO179 Multispace</title>
     <link>https://sfco179.com.br/</link>
-    <description>Recent content on SFCO179 Multispace CWB.PR.BR</description>
+    <description>Recent content on SFCO179 Multispace</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <copyright>©SFCO179</copyright><atom:link href="https://sfco179.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language><atom:link href="https://sfco179.com.br/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
